@@ -3,7 +3,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abedias-ribeiro-2b33b426b)
 
 ![AbediasLOR GitHub stats](https://github-readme-stats.vercel.app/api?username=AbediasLOR&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbediasLOR&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abediaslor&hide_progress=true)
 
 ## Tecnologias que uso no meu dia
 
