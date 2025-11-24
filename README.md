@@ -6,35 +6,41 @@
     />
   </div>
 
-  <div>
-    <a href="https://abedias-ribeiro.vercel.app/" target="_blank">
-      <img
-        src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firebase&logoColor=00eeff&labelColor=000000"
-        alt="Portfolio"
-      />
-    </a>
-    <a href="https://www.linkedin.com/in/abedias-ribeiro-2b33b426b/" target="_blank">
-      <img
-        src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-        alt="LinkedIn"
-      />
-    </a>
-  </div>
+<div style="display:flex; gap:6px; align-items:center; line-height:0;">
+  <a href="https://abedias-ribeiro.vercel.app/" target="_blank">
+    <img
+      src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firebase&logoColor=00eeff&labelColor=000000"
+      alt="Portfolio"
+      style="display:block;"
+    />
+  </a>
+
+  <a href="https://www.linkedin.com/in/abedias-ribeiro-2b33b426b/" target="_blank">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+      style="display:block;"
+    />
+  </a>
+</div>
 
   <br>
 
-  <div>
-    <img
-      src="https://github-readme-stats.vercel.app/api?username=AbediasLOR&show_icons=true&bg_color=1f242d&title_color=00eeff&text_color=ffffff&icon_color=00eeff&border_color=00eeff"
-      alt="AbediasLOR GitHub stats"
-    />
-    </div>
-    <div>
-    <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbediasLOR&layout=compact&bg_color=1f242d&title_color=00eeff&text_color=ffffff&border_color=00eeff"
-      alt="Top Languages"
-    />
-  </div>
+ <div>
+  <img
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=AbediasLOR&show_icons=true&bg_color=1f242d&title_color=00eeff&text_color=ffffff&icon_color=00eeff&border_color=00eeff"
+    alt="AbediasLOR GitHub stats"
+  />
+</div>
+
+<div>
+  <img
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AbediasLOR&layout=compact&bg_color=1f242d&title_color=00eeff&text_color=ffffff&border_color=00eeff"
+    alt="Top Languages"
+  />
+</div>
+
+
 
   <h2>Tecnologias que uso no meu dia</h2>
 
