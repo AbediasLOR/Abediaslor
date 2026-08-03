@@ -7,7 +7,7 @@
   </div>
 
 <div style="display:flex; gap:6px; align-items:center; line-height:0;">
-  <a href="" target="_blank">
+  <a href="https://abedias-ribeiro.vercel.app/" target="_blank">
     <img
       src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firebase&logoColor=00eeff&labelColor=000000"
       alt="Portfolio"
