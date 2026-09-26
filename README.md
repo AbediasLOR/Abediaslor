@@ -28,14 +28,14 @@
 
  <div>
   <img
-    src="https://github-stats-extended-frontend-alpha-sage.vercel.app//api?username=AbediasLOR&show_icons=true&bg_color=1f242d&title_color=00eeff&text_color=ffffff&icon_color=00eeff&border_color=00eeff"
+    src="https://github-stats-extended.vercel.app/api?username=AbediasLOR&show_icons=true&bg_color=1f242d&title_color=00eeff&text_color=ffffff&icon_color=00eeff&border_color=00eeff"
     alt="AbediasLOR GitHub stats"
   />
 </div>
 
 <div>
   <img
-    src="https://github-stats-extended-frontend-alpha-sage.vercel.app//?username=AbediasLOR&layout=compact&bg_color=1f242d&title_color=00eeff&text_color=ffffff&border_color=00eeff"
+    src="https://github-stats-extended.vercel.app/?username=AbediasLOR&layout=compact&bg_color=1f242d&title_color=00eeff&text_color=ffffff&border_color=00eeff"
     alt="Top Languages"
   />
 </div>
