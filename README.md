@@ -35,7 +35,7 @@
 
 <div>
   <img
-    src="https://github-toplanguages-extended.vercel.app/api?username=AbediasLOR&layout=compact&bg_color=1f242d&title_color=00eeff&text_color=ffffff&border_color=00eeff"
+    src="https://github-toplanguages-extended.vercel.app/api/top-langs/?username=AbediasLOR&layout=compact&bg_color=1f242d&title_color=00eeff&text_color=ffffff&border_color=00eeff"
     alt="Top Languages"
   />
 </div>
